@@ -1,6 +1,6 @@
 # 🏦 Bank Churning Analysis Project
 
-Welcome to my **Bank Churning Analysis** project! This repository showcases my ability to analyze complex datasets, generate actionable insights, and present them in a way that is both visually appealing and technically sound. This project is a demonstration of my skills in data analysis, Python, and Jupyter Notebook, making it an ideal showcase for potential employers.
+Welcome to my **Bank Churning Analysis** project! This repository showcases my ability to analyze complex datasets, generate actionable insights, and present them in a way that is both visually appealing and technically sound. This project is a demonstration of my skills in data analysis, Python, and Jupyter Notebook. Thank you for viewing my project!
 
 ## 📊 Project Overview
 
@@ -24,9 +24,8 @@ In this project, I analyze a dataset to understand the factors that contribute t
 
 This project leverages several powerful tools and techniques:
 
-- **Python:** Extensive use of Python for data cleaning, analysis, and model building. Key libraries include Pandas, NumPy, Scikit-learn, and Matplotlib.
+- **Python:** Extensive use of Python for data cleaning, analysis, and model building. Key libraries include Pandas, NumPy, and Matplotlib.
 - **Jupyter Notebook:** The entire analysis is documented in Jupyter Notebook, making it easy to follow the thought process and reproduce results.
-- **Machine Learning:** Implementation of various machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forest, to predict customer churn.
 - **Data Visualization:** Visualizations are created to illustrate key findings and model performance, aiding in the interpretation of results.
 
 ## 📊 Data Summary
